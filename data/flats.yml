@@ -1,0 +1,72 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: images/card-paris.jpg
+  owner_picture: images/seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  city: Paris, France
+  wifi: true
+  rating: 3
+  room_picture: images/card-paris.jpg
+  max_guest: 2
+  accomodates: 2
+  bathrooms: 1
+  bed_type: Real Bed
+  bedrooms: 1
+  beds: 1
+  property_type: Apartment
+  room_type: Entirehome/apt
+  kitchen: true
+  wifi: true
+  tv: true
+  welcome_drink: true
+romain:
+  owner_name: Romain Paillard
+  picture: images/card-london.jpeg
+  owner_picture: images/romain.jpeg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  city: London, UK
+  wifi: false
+  rating: 5
+  room_picture: images/card-london.jpeg
+  max_guest: 1
+  accomodates: 2
+  bathrooms: 1
+  bed_type: Real Bed
+  bedrooms: 1
+  beds: 2
+  property_type: Apartment
+  room_type: Entirehome/apt
+  kitchen: true
+  wifi: false
+  tv: true
+  welcome_drink: false
+anne:
+  owner_name: Anne Lio
+  picture: images/card-brussels.jpeg
+  owner_picture: images/anne.jpg
+  name: Anne's home
+  summary: Lovely house
+  description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  city: London, UK
+  wifi: false
+  rating: 2
+  room_picture: images/card-brussels.jpeg
+  max_guest: 4
+  accomodates: 2
+  bathrooms: 1
+  bed_type: Real Bed
+  bedrooms: 2
+  beds: 3
+  property_type: Apartment
+  room_type: Entirehome/apt
+  kitchen: true
+  wifi: true
+  tv: true
+  welcome_drink: false
+
+
+

@@ -1,0 +1,93 @@
+.booking-wrapper {
+  // padding: 20px 0;
+  border: 1px 0 solid $grey-superlight;
+}
+
+
+.flat-details {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 14px;
+  padding: 30px;
+}
+
+.flat-owner {
+  color: $grey-medium;
+  padding: 20px;
+}
+
+.flat-infos {
+  color: $grey-medium;
+
+  h3{
+    font-size: 18px;
+    color: $black;
+    margin-top: 0;
+  }
+
+  p{
+    font-size: 14px;
+  }
+}
+
+.stars {
+  text-align: left;
+}
+.star-yellow {
+  color: $yellow;
+  font-size: 14px;
+}
+
+.star-grey {
+  color: $grey-medium;
+  font-size: 14px;
+}
+
+.booking-form {
+  margin: 20px 0;
+  padding: 15px;
+  border-radius: 4px;
+  h4{
+    font-size: 20px;
+  }
+}
+
+.booking-block {
+  display: flex;
+  justify-content : space-between;
+  background-color: $grey-light;
+}
+
+.btn-full-width {
+  width: 100%;
+}
+
+.wrapper-flat-infos {
+  padding: 50px;
+  hr {
+    border-top: 1px solid $grey-superlight;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+  p {
+    font-size: 14px;
+  }
+  strong {
+    margin-left: 9px;
+  }
+  i {
+    font-size: 20px;
+    color: $grey-medium;
+  }
+}
+
+.flat-xtra-details {
+  color: $grey-medium;
+  li, p {
+    font-size: 12px;
+  }
+}
+
