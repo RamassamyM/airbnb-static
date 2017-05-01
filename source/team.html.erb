@@ -1,0 +1,23 @@
+---
+title: Team
+---
+<div class="container">
+  <div class="text-center ">
+    <h1>Our team</h1>
+  </div>
+  <ul class="list-inline text-center ">
+    <% data.team.each do |member| %>
+      <li>
+        <h2><%= member[:name].capitalize %></h2>
+          <%= image_tag member[:picture_url], id: "team-pic", class: "img-circle avatar-xl" %>
+      </li>
+    <% end %>
+  </ul>
+
+  <div class="padded email-link text-center">
+    <% link_to "" do %>
+    <i class="fa fa-envelope" aria-hidden="true"></i> contact@airbnb.com
+    <% end %>
+  </div>
+</div>
+
