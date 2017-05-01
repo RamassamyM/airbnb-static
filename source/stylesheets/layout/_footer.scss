@@ -1,8 +1,8 @@
 
 #footer {
-  background: #333333;
+  background: $grey-dark;
   padding: 30px 0;
-  color: #CCCCCC;
+  color: $grey-medium;
 }
 #footer p {
   margin-top: 17px;
@@ -11,11 +11,11 @@
   margin-top: 10px;
 }
 #footer a {
-  color: #CCCCCC;
+  color: $grey-medium;
   font-size: 30px;
   letter-spacing: 20px;
   transition: color 0.5s ease;
 }
 #footer a:hover{
-  color: yellow;
+  color: $turquoise;
 }

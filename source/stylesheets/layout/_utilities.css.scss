@@ -12,16 +12,16 @@
 
 // Backgrounds
 .bg-text {
-  background: #4a4a4a;
+  background: white;
 }
 .bg-email {
-  background: #aeaeae;
+  background: $grey-light;
 }
 .bg-twitter {
-  background: #00a3e1;
+  background: $grey-light;
 }
 .bg-facebook {
-  background: #3b5998;
+  background: $grey-light;
 }
 
 
@@ -39,5 +39,5 @@ h2 {
   margin-top: 0;
 }
 .wrapper-grey {
-  background: #F4F4F4;
+  background: $grey-light;
 }

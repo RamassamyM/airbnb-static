@@ -11,13 +11,28 @@ $line-height-base:        $base-height;
 $headings-font-family:    $header-font;
 
 // Semantic color scheme
-$brand-primary:   $blue;
-$brand-success:   $green;
-$brand-info:      $yellow;
-$brand-danger:    $red;
-$brand-warning:   $orange;
+$brand-primary:   $turquoise;
+$brand-success:   $red;
+$brand-info:      $turquoise-dark;
+$brand-danger:    $red-dark;
+$brand-warning:   $red;
 
 // Buttons / inputs radius
-$border-radius-base:  2px;
-$border-radius-large: 2px;
-$border-radius-small: 2px;
+$border-radius-base:  20px;
+$border-radius-large: 20px;
+$border-radius-small: 20px;
+
+
+$link-color: $grey-medium;
+$link-hover-color: $red;
+$link-hover-decoration: none;
+
+$btn-default-color: white;
+$btn-default-bg: $turquoise;
+$btn-border-radius-base: 20px;
+$btn-border-radius-large: 20px;
+
+$input-border-focus: $turquoise;
+$input-border-radius: 20px;
+$input-border-radius-large: 20px;
+$input-border-radius-small: 20px;
